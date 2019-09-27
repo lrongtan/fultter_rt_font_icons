@@ -40,7 +40,7 @@ flutter:
   fonts:
     - family: RtFont
       fonts:
-        - asset: lib/fonts/RtFont.ttf
+        - asset: fonts/RtFont.ttf
 
   #   - family: Trajan Pro
   #     fonts:
