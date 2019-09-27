@@ -2,6 +2,7 @@
 
 # 整理一套自己的iconfont
 
+asset 和 image 使用 ： https://flutter.dev/docs/development/ui/assets-and-images
 
 ## 注意点
 
